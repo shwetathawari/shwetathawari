@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Shweta Thawari! 👋
 
-<!--
-**shwetathawari/shwetathawari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍🎓 About Me
+- 🔭 I’m a Computer Science student at *DBATU*.
+- 🌱 Currently deep-diving into *Full Stack Web Development*.
+- 💻 Passionate about Software Engineering and building cool projects.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- *Languages:* Java, Python, C++
+- *Focus:* Web Development & System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/shweta-thawari-2b7bb43b8/)
